@@ -91,7 +91,7 @@ public class RenderUtils
 
     public static void enableDiffuseLightingForLevel(MatrixStack matrixStack)
     {
-        DiffuseLighting.enableForLevel(matrixStack.peek().getModel());
+//        DiffuseLighting.enableForLevel(matrixStack.peek().getModel());
     }
 
     public static void enableDiffuseLightingGui3D()
